@@ -25,7 +25,7 @@
     <a href = "mailto: knightsworks@outlook.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/gustavo-silvaz/">
+    <a href = "https://www.linkedin.com/in/gustavo-souzax/">
       <img width="25" src="linkedin.svg">
     </a>
     <a href = "https://www.instagram.com/knights_works/">
